@@ -1,7 +1,7 @@
 
 # Little Lemon API
 
-This project, developed during a Coursera course by Meta, is a backend solution for managing a restaurant's menu, orders, and delivery operations. Built with **Django** and **Django REST Framework**, it provides role-based access for customers, managers, and delivery staff.
+This project is a backend solution for managing a restaurant's menu, orders, and delivery operations. Built with **Django** and **Django REST Framework**, it provides role-based access for customers, managers, and delivery staff.
 
 ## Key Features
 - **Menu Management**: Add, update, and delete menu items.
